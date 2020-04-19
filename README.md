@@ -6,10 +6,9 @@ Many companies like to list their phone numbers using the letters printed on mos
 telephones. This makes the number easier to remember for customers. An example
 may be 1-800-FLOWERS
 
-Your program should be a command line application that reads from [phone_numbers.txt](src/main/resources/phone-numbers.txt)  or STDIN when no files are given. Each line of these files will
-contain a single phone number.
+This program is a command line application that reads from [phone_numbers.txt](src/main/resources/phone-numbers.txt) 
 
-For each phone number read, your program will output all possible word
+For each phone number read, This program will output all possible word
 replacements from [dictionary.conf](src/main/resources/dictionary/dictionary.conf)
 
 All punctuation and whitespace will be ignored in both phone numbers and the
