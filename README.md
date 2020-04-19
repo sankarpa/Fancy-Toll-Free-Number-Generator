@@ -1,7 +1,5 @@
 # Fancy-Toll-Free-Number-Generator
 
-**Problem Statement**
-
 Many companies like to list their phone numbers using the letters printed on most
 telephones. This makes the number easier to remember for customers. An example
 may be 1-800-FLOWERS
